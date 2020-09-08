@@ -1,0 +1,11 @@
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\bin\Debug\netcoreapp2.1\Enum3.deps.json
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\bin\Debug\netcoreapp2.1\Enum3.runtimeconfig.json
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\bin\Debug\netcoreapp2.1\Enum3.runtimeconfig.dev.json
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\bin\Debug\netcoreapp2.1\Enum3.dll
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\bin\Debug\netcoreapp2.1\Enum3.pdb
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\obj\Debug\netcoreapp2.1\Enum3.csprojAssemblyReference.cache
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\obj\Debug\netcoreapp2.1\Enum3.csproj.CoreCompileInputs.cache
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\obj\Debug\netcoreapp2.1\Enum3.AssemblyInfoInputs.cache
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\obj\Debug\netcoreapp2.1\Enum3.AssemblyInfo.cs
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\obj\Debug\netcoreapp2.1\Enum3.dll
+C:\Users\Andie\Documents\csharp\Enum3\Enum3\obj\Debug\netcoreapp2.1\Enum3.pdb
